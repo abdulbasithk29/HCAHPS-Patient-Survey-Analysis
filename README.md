@@ -13,4 +13,6 @@ Following are the questions to be answered after analysis
 
 • What recommendations can you make to hospitals to help them further improve the patient experience?
 
-The attached Powerpoint presentation shows the steps and processes of analysis, findings and recommendations to improve the quality of hospitals care.  
+The attached Powerpoint presentation shows the steps and processes of analysis, findings and recommendations to improve the quality of hospitals care.
+
+HCAHPS Patient Survey_ Maven Analytics.pdf
