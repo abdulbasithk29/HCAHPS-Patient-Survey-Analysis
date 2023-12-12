@@ -15,4 +15,5 @@ Following are the questions to be answered after analysis
 
 The attached Powerpoint presentation shows the steps and processes of analysis, findings and recommendations to improve the quality of hospitals care.
 
-HCAHPS Patient Survey_ Maven Analytics.pdf
+[HCAHPS Patient Survey_ Maven Analytics.pdf
+](https://github.com/abdulbasithk29/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%20Patient%20Survey_%20Maven%20Analytics.pdf)https://github.com/abdulbasithk29/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%20Patient%20Survey_%20Maven%20Analytics.pdf
