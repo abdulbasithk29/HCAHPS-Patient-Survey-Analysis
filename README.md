@@ -17,3 +17,7 @@ The attached Powerpoint presentation shows the steps and processes of analysis, 
 
 [HCAHPS Patient Survey_ Maven Analytics.pdf
 ](https://github.com/abdulbasithk29/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%20Patient%20Survey_%20Maven%20Analytics.pdf)https://github.com/abdulbasithk29/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%20Patient%20Survey_%20Maven%20Analytics.pdf
+
+The attached pdf is the Dashboard & Findings of the HCAHPS Patient survey analysis.
+
+https://github.com/abdulbasithk29/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%20Patient%20Survey_%20Analysis%20%26%20Dashboard.pdf
